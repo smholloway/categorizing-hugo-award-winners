@@ -4,8 +4,10 @@ A friend suggested the [Hugo Awards](http://en.wikipedia.org/wiki/Hugo_Award_for
 
 ## Running it
 
-To generate the list of Fantasy novels, simply run the main file.
+To generate the list of Fantasy novels, simply install the dependencies
+and run the main file.
 
+    pip install -r requirements.txt
     python main.py
 
 ## Just the Fantasy Novels
