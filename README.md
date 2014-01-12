@@ -40,4 +40,6 @@ To generate the list of Fantasy novels, simply run the main file.
 
 ## License
 
-MIT
+The MIT License (MIT)
+
+Copyright (c) 2014 Seth Holloway
